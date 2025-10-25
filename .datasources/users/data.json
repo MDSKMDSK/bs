@@ -1,0 +1,54 @@
+
+[
+  {
+    "_id": "user_001",
+    "openid": "oXk1234567890abcdef",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epJxJxRf8t2r4VhXfVia7gKT1zH5XzH5XzH5XzH5XzH5XzH5X/132",
+    "nickName": "小明",
+    "username": "xiaoming_2024",
+    "role": "user",
+    "createTime": 1703980800000,
+    "updateTime": 1703980800000
+  },
+  {
+    "_id": "user_002",
+    "openid": "oXk0987654321fedcba",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJfJfJfJfJfJfJfJfJfJfJfJfJfJfJfJfJfJfJfJfJf/132",
+    "nickName": "张老板",
+    "username": "boss_zhang",
+    "role": "merchant",
+    "createTime": 1704067200000,
+    "updateTime": 1704153600000
+  },
+  {
+    "_id": "user_003",
+    "openid": "oXk1122334455667788",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/ajNVdqHZLLD1OJ1OJ1OJ1OJ1OJ1OJ1OJ1OJ1OJ1OJ1OJ1OJ1OJ1OJ/132",
+    "nickName": "购物达人",
+    "username": "shopping_master",
+    "role": "user",
+    "createTime": 1704153600000,
+    "updateTime": 1704153600000
+  },
+  {
+    "_id": "user_004",
+    "openid": "oXk2233445566778899",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/bKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKkKk/132",
+    "nickName": "李店长",
+    "username": "manager_li",
+    "role": "merchant",
+    "createTime": 1704240000000,
+    "updateTime": 1704326400000
+  },
+  {
+    "_id": "user_005",
+    "openid": "oXk3344556677889900",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/cLlLlLlLlLlLlLlLlLlLlLlLlLlLlLlLlLlLlLlLlLlLl/132",
+    "nickName": "新手用户",
+    "username": "new_user_001",
+    "role": null,
+    "createTime": 1704403200000,
+    "updateTime": 1704403200000
+  }
+]
+  

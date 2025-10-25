@@ -1,0 +1,45 @@
+
+{
+  "name": "users",
+  "title": "微信小程序用户",
+  "schemas": [
+    {
+      "name": "openid",
+      "title": "微信OpenID",
+      "type": "String"
+    },
+    {
+      "name": "avatar",
+      "title": "头像URL",
+      "type": "Image"
+    },
+    {
+      "name": "nickName",
+      "title": "微信昵称",
+      "type": "String"
+    },
+    {
+      "name": "username",
+      "title": "用户名",
+      "type": "String"
+    },
+    {
+      "name": "role",
+      "title": "用户身份",
+      "type": "String"
+    },
+    {
+      "name": "createTime",
+      "title": "创建时间",
+      "type": "DateTime",
+      "format": "timestamp-ms"
+    },
+    {
+      "name": "updateTime",
+      "title": "更新时间",
+      "type": "DateTime",
+      "format": "timestamp-ms"
+    }
+  ]
+}
+  
